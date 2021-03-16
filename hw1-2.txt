@@ -1,0 +1,10 @@
+210309 homework
+modify1
+modify2
+<<<<<<< HEAD
+branch_1 : 1st modified
+branch_1 : 2st modified
+=======
+branch_2 : 1st modified
+branch_2 : 2nd modified
+>>>>>>> 61418eb5bccd61a10bea84a88f51e7cadd8fb220
